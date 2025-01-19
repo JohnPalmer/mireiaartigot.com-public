@@ -1,1 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><sitemap><loc>https://mireiaartigot.com/en/sitemap.xml</loc><lastmod>2018-01-04T00:00:00+00:00</lastmod></sitemap><sitemap><loc>https://mireiaartigot.com/ca/sitemap.xml</loc><lastmod>2018-01-04T00:00:00+00:00</lastmod></sitemap><sitemap><loc>https://mireiaartigot.com/es/sitemap.xml</loc><lastmod>2018-01-04T00:00:00+00:00</lastmod></sitemap></sitemapindex>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>http://localhost:1313/en/sitemap.xml</loc>
+    
+      <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>http://localhost:1313/ca/sitemap.xml</loc>
+    
+      <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>http://localhost:1313/es/sitemap.xml</loc>
+    
+      <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>

@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Mireia Artigot Golobardes</title>
-    <link>http://localhost:1313/ca/categories/</link>
+    <link>https://mireiaartigot.com/ca/categories/</link>
     <description>Recent content in Categories on Mireia Artigot Golobardes</description>
     <generator>Hugo</generator>
     <language>ca-ca</language>
     <copyright>Copyright &amp;copy; 2021 Mireia Artigot Golobardes All Rights Reserved</copyright>
-    <atom:link href="http://localhost:1313/ca/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mireiaartigot.com/ca/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
